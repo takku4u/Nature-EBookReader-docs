@@ -16,8 +16,8 @@ permalink: /privacy.html
 >    re-check on every release.
 > 3. Replace every `[BRACKETED PLACEHOLDER]` below with real values.
 
-**Effective Date:** [DATE]
-**Last Updated:** [DATE]
+**Effective Date:** 2026-05-04
+**Last Updated:** 2026-05-04
 
 ---
 
@@ -230,10 +230,21 @@ We may update this policy from time to time. The "Last Updated" date
 above reflects the current version. Material changes will be flagged
 in-app on next launch where practical.
 
-## 11. Contact
+## 11. Grievance Officer (India — DPDP Act, 2023)
+
+In compliance with the Digital Personal Data Protection Act, 2023,
+Indian-resident users may raise grievances regarding the processing
+of their personal data through the Grievance Officer designated below.
+We respond within the 30-day period required by the Act.
+
+**Grievance Officer:** [DEVELOPER LEGAL NAME]
+**Email:** [PRIVACY CONTACT EMAIL]
+**Postal Address:** [DEVELOPER POSTAL ADDRESS], Hyderabad, Telangana, India
+
+## 12. Contact
 
 **[DEVELOPER LEGAL NAME]**
-**[DEVELOPER POSTAL ADDRESS]** _(required in some jurisdictions)_
+**[DEVELOPER POSTAL ADDRESS]**, Hyderabad, Telangana, India
 **Privacy queries:** [PRIVACY CONTACT EMAIL]
 
 ---

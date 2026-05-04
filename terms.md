@@ -14,8 +14,8 @@ permalink: /terms.html
 > 2. Replace every `[BRACKETED PLACEHOLDER]` below with real values.
 > 3. Re-check the document for accuracy on every release.
 
-**Effective Date:** [DATE]
-**Last Updated:** [DATE]
+**Effective Date:** 2026-05-04
+**Last Updated:** 2026-05-04
 
 ---
 
@@ -213,18 +213,24 @@ an update constitutes acceptance of the revised Terms.
 
 ## 13. Governing law and dispute resolution
 
-These Terms are governed by the laws of **[JURISDICTION]**, without
-regard to its conflict-of-laws provisions. You agree that any dispute
-arising from these Terms or your use of the App shall be resolved in
-the courts of **[JURISDICTION]**.
+These Terms are governed by and construed in accordance with the
+laws of **India**, without regard to its conflict-of-laws provisions.
+You agree that any dispute arising from these Terms or your use of
+the App shall be subject to the exclusive jurisdiction of the
+competent courts at **Hyderabad, Telangana, India**.
 
 _Consumer-protection rights granted to you by mandatory local law are
-not waived by this clause._
+not waived by this clause._ Users in jurisdictions whose mandatory
+consumer-protection statutes override forum-selection clauses
+(including, where applicable, the European Union, the United
+Kingdom, California, Australia, and Brazil) retain the right to
+pursue claims in their local courts under their local consumer-
+protection law.
 
 ## 14. Contact
 
 **[DEVELOPER LEGAL NAME]**
-**[DEVELOPER POSTAL ADDRESS]**
+**[DEVELOPER POSTAL ADDRESS]**, Hyderabad, Telangana, India
 **General queries:** [SUPPORT CONTACT EMAIL]
 **Privacy queries:** [PRIVACY CONTACT EMAIL]
 

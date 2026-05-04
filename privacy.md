@@ -219,7 +219,11 @@ Nature+ EBookReader's compliance posture under §9 is structural:
   Auto Backup.
 * **Local-only reading sessions in Kids Mode.** Reading time, books
   opened, and any annotations made during a Kids session are stored
-  locally; they are uploaded to an external service only if a
+  locally on the device for the user's own viewing within the App
+  (e.g., the parent reviewing a child's reading history). This is
+  app-state data, not analytics — it is not transmitted to any
+  developer-controlled server or third-party telemetry SDK, because
+  none exist. The data is uploaded to an external service only if a
   paying parent has separately opted into Pro cloud sync against
   their own cloud account.
 

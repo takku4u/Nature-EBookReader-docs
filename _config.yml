@@ -1,0 +1,22 @@
+# GitHub Pages — Jekyll config for the docs/ folder.
+#
+# Theme: Cayman (default GitHub Pages supported theme; clean, mobile-friendly).
+# Output: every `.md` in this folder with front-matter is rendered to a
+# matching `.html` page; permalinks pinned in each file's front-matter so
+# the URLs match what `core/legal/LegalLinks.kt` references.
+
+title: Nature+ EBookReader
+description: Android e-book reader — privacy, terms, manual, technical design.
+theme: jekyll-theme-cayman
+
+# Don't list the index in the page listing twice.
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+
+# Build hygiene — exclude editor / OS noise that occasionally lands in docs/.
+exclude:
+  - .DS_Store
+  - Thumbs.db

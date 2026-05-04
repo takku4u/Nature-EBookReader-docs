@@ -6,7 +6,7 @@ title: Nature+ EBookReader — Public Documents
 # Nature+ EBookReader
 
 Android e-book reader supporting EPUB, PDF, MOBI, AZW, AZW3, FB2, DOCX,
-RTF, TXT, CBZ, CBR, and CHM.
+RTF, TXT, CBZ, and CBR.
 
 This site hosts the public-facing legal documents for the application.
 The application itself is distributed via the Google Play Store; user

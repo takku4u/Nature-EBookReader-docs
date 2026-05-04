@@ -184,9 +184,48 @@ serve personalised ads in a Kids session, in compliance with COPPA
 and Google Play's Designed-for-Families policy. Reading sessions
 captured under Kids Mode stay on the device and are not transmitted.
 
+In addition, **all advertising surfaces are suppressed entirely while
+Kids Mode is active** — neither rewarded nor interstitial ads load or
+display, regardless of the COPPA flags. The COPPA configuration
+operates as defence-in-depth so that any AdMob caching from before
+the toggle cannot serve a personalised or non-G-rated ad in a Kids
+session.
+
 If you believe a child under 13 is using the App without parental
 consent, please contact us at **[PRIVACY CONTACT EMAIL]** so we can
 provide guidance on data deletion.
+
+### 6.5 Children's data — DPDP Act, 2023 (India) §9
+
+The Digital Personal Data Protection Act, 2023 §9 prohibits the
+processing of children's personal data without verifiable parental
+consent and bans behavioural monitoring and targeted advertising
+directed at children (defined as persons under 18 years of age in
+India — a stricter standard than COPPA's under-13).
+
+Nature+ EBookReader's compliance posture under §9 is structural:
+
+* **No behavioural or targeted advertising in Kids Mode.** All
+  advertising surfaces are suppressed during a Kids Mode session;
+  neither AdMob nor any other third-party SDK requests personalised
+  ad inventory.
+* **No behavioural tracking.** The App ships with no analytics
+  framework, no telemetry SDK, no developer-controlled server. We
+  process no personal data from any user — child or adult — on
+  systems we control.
+* **PIN-protected parental control.** Kids Mode entry and exit
+  require a parental PIN stored in EncryptedSharedPreferences on the
+  device. The PIN is never transmitted and is excluded from
+  Auto Backup.
+* **Local-only reading sessions in Kids Mode.** Reading time, books
+  opened, and any annotations made during a Kids session are stored
+  locally; they are uploaded to an external service only if a
+  paying parent has separately opted into Pro cloud sync against
+  their own cloud account.
+
+Indian parents or guardians may raise concerns about the handling
+of a child's personal data through the Grievance Officer designated
+in §11. We respond within the 30-day period required by the Act.
 
 ## 7. Data retention and deletion
 

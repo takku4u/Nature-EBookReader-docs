@@ -225,7 +225,8 @@ Nature+ EBookReader's compliance posture under §9 is structural:
 
 Indian parents or guardians may raise concerns about the handling
 of a child's personal data through the Grievance Officer designated
-in §11. We respond within the 30-day period required by the Act.
+in §11. We respond within the period prescribed by the Digital
+Personal Data Protection Rules.
 
 ## 7. Data retention and deletion
 
@@ -273,8 +274,17 @@ in-app on next launch where practical.
 
 In compliance with the Digital Personal Data Protection Act, 2023,
 Indian-resident users may raise grievances regarding the processing
-of their personal data through the Grievance Officer designated below.
-We respond within the 30-day period required by the Act.
+of their personal data through the Grievance Officer designated
+below. We respond within the period prescribed by the Digital
+Personal Data Protection Rules.
+
+The Grievance Officer role is held by the developer personally —
+emails are read and answered directly, not routed through a corporate
+support system. Most queries about Nature+ EBookReader can be
+answered briefly because the App processes no personal data on
+servers we control; please describe your concern in plain language
+and we will reply with the relevant facts about what (if anything)
+the App holds about you.
 
 **Grievance Officer:** [DEVELOPER LEGAL NAME]
 **Email:** [PRIVACY CONTACT EMAIL]

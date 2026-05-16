@@ -17,7 +17,7 @@ By installing or using Nature+ EBookReader (the "App"), you agree to
 these Terms of Service ("Terms") and to our [Privacy Policy](privacy.md).
 If you do not agree, do not install or use the App.
 
-The App is published by **Nature75 Apps (operated by Ashok kumar Tellakula)** ("we", "us", "our"),
+The App is published by **Nature75 Apps (operated by Ashok K.T.)** ("we", "us", "our"),
 and distributed via the Google Play Store.
 
 ## 2. Licence
@@ -220,7 +220,7 @@ protection law.
 
 ## 14. Contact
 
-**Nature75 Apps (operated by Ashok kumar Tellakula)**
+**Nature75 Apps (operated by Ashok K.T.)**
 Villa No 75 Road No 3, APR Praveens Nature phase 2 APR Nagar Patancheru Village, Patancheru Sangareddy - 502319, Telangana, India
 **General queries:** support.nature75@gmail.com
 **Privacy queries:** support.nature75@gmail.com

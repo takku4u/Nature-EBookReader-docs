@@ -13,7 +13,7 @@ permalink: /privacy.html
 
 ## 1. Who we are
 
-Nature+ EBookReader (the "App") is published by **Ashok kumar Tellakula**
+Nature+ EBookReader (the "App") is published by **Nature75 Apps (operated by Ashok kumar Tellakula)**
 ("we", "us", "our"). For privacy questions, contact us at
 **support.nature75@gmail.com**.
 
@@ -279,13 +279,13 @@ servers we control; please describe your concern in plain language
 and we will reply with the relevant facts about what (if anything)
 the App holds about you.
 
-**Grievance Officer:** Ashok kumar Tellakula
+**Grievance Officer:** Nature75 Apps (operated by Ashok kumar Tellakula)
 **Email:** support.nature75@gmail.com
 **Postal Address:** Villa No 75 Road No 3, APR Praveens Nature phase 2 APR Nagar Patancheru Village, Patancheru Sangareddy - 502319, Telangana, India
 
 ## 12. Contact
 
-**Ashok kumar Tellakula**
+**Nature75 Apps (operated by Ashok kumar Tellakula)**
 **Villa No 75 Road No 3, APR Praveens Nature phase 2 APR Nagar Patancheru Village, Patancheru Sangareddy - 502319, India (IN)**, Hyderabad, Telangana, India
 **Privacy queries:** support.nature75@gmail.com
 

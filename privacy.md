@@ -6,16 +6,6 @@ permalink: /privacy.html
 
 # Privacy Policy — Nature+ EBookReader
 
-> **⚠ DRAFT — NOT YET REVIEWED BY LEGAL COUNSEL.**
-> This draft was generated to reflect the app's actual data-handling
-> behaviour as observed in the codebase. Before publishing this document
-> on a public URL or referencing it from the app, you must:
-> 1. Have it reviewed by a privacy lawyer for your target jurisdictions
->    (especially if launching in the EU/UK, California, or to children).
-> 2. Confirm every factual claim still matches the shipped app —
->    re-check on every release.
-> 3. Replace every `[BRACKETED PLACEHOLDER]` below with real values.
-
 **Effective Date:** 2026-05-04
 **Last Updated:** 2026-05-04
 
@@ -23,9 +13,9 @@ permalink: /privacy.html
 
 ## 1. Who we are
 
-Nature+ EBookReader (the "App") is published by **[DEVELOPER LEGAL NAME]**
+Nature+ EBookReader (the "App") is published by **Ashok kumar Tellakula**
 ("we", "us", "our"). For privacy questions, contact us at
-**[PRIVACY CONTACT EMAIL]**.
+**support.nature75@gmail.com**.
 
 The App is distributed through the Google Play Store. Your installation
 of the App is governed by Google Play's terms in addition to ours.
@@ -55,8 +45,7 @@ The following stays on your device unless you opt into cloud sync:
 * Books you import (file paths and content excerpted for indexing).
 * Reading progress: current page, total time read, last-opened time,
   per-book reading sessions.
-* Annotations: highlights, underlines, sticky notes, image clips,
-  pencil drawings, quote blocks.
+* Annotations: highlights, underlines, sticky notes, quote blocks.
 * Flashcards and the Spaced-Repetition (SM-2) state used by Daily
   Recap.
 * Reading preferences: theme, font, line spacing, auto-margin, page
@@ -192,7 +181,7 @@ the toggle cannot serve a personalised or non-G-rated ad in a Kids
 session.
 
 If you believe a child under 13 is using the App without parental
-consent, please contact us at **[PRIVACY CONTACT EMAIL]** so we can
+consent, please contact us at **support.nature75@gmail.com** so we can
 provide guidance on data deletion.
 
 ### 6.5 Children's data — DPDP Act, 2023 (India) §9
@@ -266,7 +255,7 @@ Depending on your jurisdiction, you may have the right to:
 * Export annotations and notes (Settings → Export Annotations).
 * Lodge a complaint with a data-protection authority.
 
-To exercise any right, contact us at **[PRIVACY CONTACT EMAIL]**.
+To exercise any right, contact us at **support.nature75@gmail.com**.
 
 ## 10. Changes to this policy
 
@@ -290,15 +279,15 @@ servers we control; please describe your concern in plain language
 and we will reply with the relevant facts about what (if anything)
 the App holds about you.
 
-**Grievance Officer:** [DEVELOPER LEGAL NAME]
-**Email:** [PRIVACY CONTACT EMAIL]
-**Postal Address:** [DEVELOPER POSTAL ADDRESS], Hyderabad, Telangana, India
+**Grievance Officer:** Ashok kumar Tellakula
+**Email:** support.nature75@gmail.com
+**Postal Address:** Villa No 75 Road No 3, APR Praveens Nature phase 2 APR Nagar Patancheru Village, Patancheru Sangareddy - 502319, Telangana, India
 
 ## 12. Contact
 
-**[DEVELOPER LEGAL NAME]**
-**[DEVELOPER POSTAL ADDRESS]**, Hyderabad, Telangana, India
-**Privacy queries:** [PRIVACY CONTACT EMAIL]
+**Ashok kumar Tellakula**
+**Villa No 75 Road No 3, APR Praveens Nature phase 2 APR Nagar Patancheru Village, Patancheru Sangareddy - 502319, India (IN)**, Hyderabad, Telangana, India
+**Privacy queries:** support.nature75@gmail.com
 
 ---
 

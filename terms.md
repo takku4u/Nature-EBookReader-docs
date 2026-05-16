@@ -6,14 +6,6 @@ permalink: /terms.html
 
 # Terms of Service — Nature+ EBookReader
 
-> **⚠ DRAFT — NOT YET REVIEWED BY LEGAL COUNSEL.**
-> This draft was generated to reflect the app's actual functionality
-> as observed in the codebase. Before publishing it on a public URL or
-> referencing it from inside the App, you must:
-> 1. Have it reviewed by a lawyer for your target jurisdictions.
-> 2. Replace every `[BRACKETED PLACEHOLDER]` below with real values.
-> 3. Re-check the document for accuracy on every release.
-
 **Effective Date:** 2026-05-04
 **Last Updated:** 2026-05-04
 
@@ -25,7 +17,7 @@ By installing or using Nature+ EBookReader (the "App"), you agree to
 these Terms of Service ("Terms") and to our [Privacy Policy](privacy.md).
 If you do not agree, do not install or use the App.
 
-The App is published by **[DEVELOPER LEGAL NAME]** ("we", "us", "our"),
+The App is published by **Ashok kumar Tellakula** ("we", "us", "our"),
 and distributed via the Google Play Store.
 
 ## 2. Licence
@@ -49,8 +41,7 @@ The App is free to install. Some features are gated behind a one-time
 
 ### 3.1 Free features
 
-All annotation tools (highlight, underline, sticky note, image clip,
-pencil drawing), the Annotation Hub, Text-to-Speech, Daily Recap with
+All annotation tools (highlight, underline, sticky note), the Annotation Hub, Text-to-Speech, Daily Recap with
 spaced-repetition flashcards, all reading formats, and the standard
 display themes are free.
 
@@ -229,10 +220,10 @@ protection law.
 
 ## 14. Contact
 
-**[DEVELOPER LEGAL NAME]**
-**[DEVELOPER POSTAL ADDRESS]**, Hyderabad, Telangana, India
-**General queries:** [SUPPORT CONTACT EMAIL]
-**Privacy queries:** [PRIVACY CONTACT EMAIL]
+**Ashok kumar Tellakula**
+Villa No 75 Road No 3, APR Praveens Nature phase 2 APR Nagar Patancheru Village, Patancheru Sangareddy - 502319, Telangana, India
+**General queries:** support.nature75@gmail.com
+**Privacy queries:** support.nature75@gmail.com
 
 ---
 

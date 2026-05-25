@@ -6,8 +6,8 @@ permalink: /privacy.html
 
 # Privacy Policy — Nature+ EBookReader
 
-**Effective Date:** 2026-05-04
-**Last Updated:** 2026-05-04
+**Effective Date:** 2026-05-25
+**Last Updated:** 2026-05-25
 
 ---
 
@@ -122,7 +122,7 @@ stored in Google Play's billing library cache on your device and
 mirrored to a small DataStore cache so the entitlement evaluates
 immediately on cold start.
 
-## 6. Third-party SDKs
+## 6. Third-party SDKs and system services
 
 ### 6.1 Google AdMob (free tier only)
 
@@ -166,7 +166,42 @@ content to Google:
 ML Kit may report aggregated, anonymised model-performance metrics to
 Google. See <https://developers.google.com/ml-kit/terms> for details.
 
-### 6.4 Children's apps and COPPA
+### 6.4 Android system Text-to-Speech (TTS) engine
+
+The App's "Read aloud" player and the "Listen" buttons on the AI
+Summary and AI Translate panels hand text to your **device's Android
+system Text-to-Speech engine** for audio synthesis. The App itself
+does not contain or operate a TTS voice — it simply asks Android
+which engine to use (typically Google Text-to-Speech or Samsung
+Text-to-Speech, depending on your device).
+
+**What your TTS engine does with the text is governed by that
+engine's privacy policy, not ours.** In particular:
+
+* **Offline voices** (voice packs downloaded to your device)
+  synthesise audio entirely on-device with no network transmission.
+* **Network voices** (used when an offline pack is not installed for
+  the requested voice) may transmit the spoken text to the engine
+  vendor's servers (e.g., Google's). The App has no insight into or
+  control over this transmission.
+
+This applies to **any** text spoken aloud by the App, including:
+
+* Book contents read by the book-reading TTS player.
+* AI summaries spoken via the **Listen** button on the Summary tab.
+* AI translations spoken via the **Listen** button on the Translate tab.
+* Any other in-app TTS playback.
+
+**To avoid network transmission entirely**, install the offline voice
+pack for your preferred language in your device's TTS settings
+(typically **Settings → Languages & input → Text-to-speech output**)
+before using these features.
+
+We do not log, store, or have any access to the text passed to the
+TTS engine, the audio it produces, or any data the engine exchanges
+with its vendor.
+
+### 6.5 Children's apps and COPPA
 
 Kids Mode marks ad requests as **child-directed** so AdMob does not
 serve personalised ads in a Kids session, in compliance with COPPA
@@ -184,7 +219,7 @@ If you believe a child under 13 is using the App without parental
 consent, please contact us at **support.nature75@gmail.com** so we can
 provide guidance on data deletion.
 
-### 6.5 Children's data — DPDP Act, 2023 (India) §9
+### 6.6 Children's data — DPDP Act, 2023 (India) §9
 
 The Digital Personal Data Protection Act, 2023 §9 prohibits the
 processing of children's personal data without verifiable parental
